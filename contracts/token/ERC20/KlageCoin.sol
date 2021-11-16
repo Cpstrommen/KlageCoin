@@ -39,8 +39,8 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 
     uint256 private _totalSupply;
 
-    string private _name;
-    string private _symbol;
+    string private _name = "KlageCoin";
+    string private _symbol = "KLG";
 
     /**
      * @dev Sets the values for {name} and {symbol}.
