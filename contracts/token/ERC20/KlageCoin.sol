@@ -334,6 +334,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
         uint256 amount
     ) internal virtual {}
 
+
     /**
      * @dev Hook that is called after any transfer of tokens. This includes
      * minting and burning.
