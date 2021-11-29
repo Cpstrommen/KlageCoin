@@ -2,9 +2,13 @@
 
 # **KlageCoin - The Future of Finance and Accounting**
 
-<"They scream your failures but whisper your accomplishments" - Charlie Klage>
+> "They scream your failures but whisper your accomplishments" - Charlie Klage
 
 Build on a token backed by the Wolf of Blaisdell himself.
+
+# Decentralized Song Requests
+* Holders of KlageCoin hold voting shares to be exercized on the setlist of each Klage studio session
+* Holders are allowed access to exclusive, tailor-made playlists
 
 ## Open Source
 * Developed using the proven and reliable OpenZeppelin ERC20 and BEP20 framework
