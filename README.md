@@ -15,7 +15,7 @@ Build on a token backed by the Wolf of Blaisdell himself.
 * Continued development on the KlageCoin BEP20 token on the Binance Smart Chain
 
 ### Pegged to Physical Assets
-* At any time, 10 KlageCoin can be exchaned for one, 12-oz Budweiser
+* At any time, 1 KlageCoin can be exchaned for one, 12-oz Budweiser
 * Maintain physical value backing while allowing value of token to fluctuate
 
 ### Contribute to KlageCoin Development
