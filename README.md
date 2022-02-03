@@ -17,8 +17,3 @@ Build on a token backed by the Wolf of Blaisdell himself.
 ### Pegged to Physical Assets
 * At any time, 1 KlageCoin can be exchaned for one, 12-oz Budweiser
 * Maintain physical value backing while allowing value of token to fluctuate
-
-### Contribute to KlageCoin Development
- * Fund the project with ETH at: 0x63ca6bf146624833c0e96ffabbf6550bc7fc713b
- * Fund the KlageCoin development token with BNB at: 0x3bBC54E72E02671F19030d1EdFAA9D24fBA53f4C
-
