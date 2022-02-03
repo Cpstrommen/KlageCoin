@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.0;
 
-import "../ERC20.sol";
+import "../KlageCoin.sol";
 import "../utils/SafeERC20.sol";
 
 /**

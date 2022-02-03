@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.0;
 
-import "../ERC20.sol";
+import "../KlageCoin.sol";
 
 /**
  * @dev Extension of {ERC20} that adds a cap to the supply of tokens.
