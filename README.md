@@ -1,6 +1,6 @@
 <img src="logo.png" alt="OpenZeppelin" height="400px">
 
-# **KlageCoin - The Future of Finance and Accounting**
+# **KlageCoin (KLG) - The Future of Finance and Accounting**
 
 > "They scream your failures but whisper your accomplishments" - Charlie Klage
 
